@@ -19,10 +19,13 @@
             }
              button{
                 position: relative;
-                color: red;
+                color: green;
                 font-style: italic;
                 font-size: large;
             }
             
-            
+            .btns{
+                position:absolute;
+                left: 50rem;
+            }
 
